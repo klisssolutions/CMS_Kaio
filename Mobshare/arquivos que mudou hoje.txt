@@ -1,0 +1,5 @@
+login - mudou o campo senha para password
+ajax - voltando a router
+cadastro - arrumando bugs
+veiculoDAO- arrumando idCliente
+include - adicionando os alerts
